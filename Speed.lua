@@ -3,7 +3,7 @@ local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shl
 local Window = OrionLib:MakeWindow({Name = "I wanna go fast - rkfire  (USE AUTOCLICKER LOL)", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
 
 local Tab = Window:MakeTab({
-	Name = "orbs",
+	Name = "features",
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
